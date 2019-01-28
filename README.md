@@ -64,9 +64,9 @@ Android studio 3.0 or above and a Network connection
 
 ## Developers
 
-* **Saurabh Vijay** 
-* **Kunal Sevkani** 
-* **Ankit Jain** 
+* ### [Kunal Sevkani](https://github.com/kunalmnnit) 
+* ### [Saurabh Vijay](https://github.com/SaurabhVj)
+* ### [Ankit Jain](https://github.com/jankit311)
 
 
 
