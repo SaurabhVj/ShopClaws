@@ -43,6 +43,7 @@ download required libraries(automatically done by gradle) and run the app.
 2. Alimuzaffar pin entry edit text
 3. MpAndroidChart Library
 4. Fresco
+5. Glide 
 
 
 ### Prerequisites
